@@ -29,6 +29,7 @@
   },
   "scripts": {
     "build": "unbuild",
+    "build:watch": "unbuild --watch",
     "dev": "unbuild --stub",
     "lint": "eslint .",
     "prepublishOnly": "nr build",
