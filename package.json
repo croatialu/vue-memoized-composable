@@ -1,7 +1,7 @@
 {
   "name": "vue-memoized-composable",
   "type": "module",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "packageManager": "pnpm@10.4.1",
   "description": "A Vue composable that memoizes the result of a function",
   "author": "Croatia Lu <wuli.croatia@foxmail.com>",
