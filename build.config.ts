@@ -6,5 +6,4 @@ export default defineBuildConfig({
   ],
   externals: ['@tanstack/vue-query', 'vue'],
   clean: true,
-  declaration: true,
 })
