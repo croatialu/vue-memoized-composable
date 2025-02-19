@@ -4,6 +4,7 @@ export default defineBuildConfig({
   entries: [
     'src/index',
   ],
-  declaration: 'node16',
+  externals: ['@tanstack/vue-query', 'vue'],
   clean: true,
+  declaration: true,
 })
