@@ -8,7 +8,13 @@
 
 A Vue composable that memoizes the result of a function.
 
-## Usage
+## Install
+
+```bash
+pnpm install vue-memoized-composable
+```
+
+## Example
 
 ```ts
 import { createMemoizedComposable } from 'vue-memoized-composable'
